@@ -1,9 +1,17 @@
-Untuk menjalankan client:
-cd client
-npm i
-npm start
+# Inventory-Apps
 
-untuk menjalankan server:
-cd server 
-npm i 
+Repositori ini berisi project Inventory Apps yang terdiri dari dua bagian utama:
+
+## 📁 Struktur Folder
+
+- `client` – aplikasi frontend  
+- `server` – aplikasi backend/API
+
+## 🚀 Cara Menjalankan
+
+### 🚀 Frontend
+
+```bash
+cd client
+npm install
 npm start
