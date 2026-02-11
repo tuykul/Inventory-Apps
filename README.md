@@ -15,3 +15,12 @@ Repositori ini berisi project Inventory Apps yang terdiri dari dua bagian utama:
 cd client
 npm install
 npm start
+```
+
+### 🚀 backend
+
+``` bash
+cd server
+npm install
+npm start
+```
